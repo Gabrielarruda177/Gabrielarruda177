@@ -1,0 +1,72 @@
+body {
+  background-color: black;
+  color: rgb(0, 0, 0);
+
+}
+
+
+.carossel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%; /* ou ajuste como preferir */
+    max-height: 900px; /* Defina o tamanho máximo desejado */
+    object-fit: cover; /* Para manter a proporção ao redimensionar */
+  }
+  
+.conteiner {
+
+  display: flex;
+  padding: 20px;
+  justify-content: space-between ;
+  width: 60%;
+  margin: auto;
+  gap: 10px;
+  
+
+}
+
+#preço{
+
+  display: flex;
+  margin: 20px;
+  padding: auto;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.formulario{
+background-color: hsla(0, 0%, 57%, 0.876);
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+padding: 20px;
+max-width: 400px;
+width: 100%;
+}
+
+
+input, select, textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button {
+  background-color: 363636; /* Cor Ferrari */
+  color: #fff;
+  border: none;
+  padding: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+button:hover {
+  background-color: #363636; /* Cor Ferrari mais escura */
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
