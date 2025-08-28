@@ -43,20 +43,27 @@ Sou Gabriel Arruda, um estudante em constante evolução, no 3º ano do Ensino M
 
 ---
 
-<div align="center">
-  <h3>📊 Estatísticas & Conquistas</h3>
-</div>
+## 📊 Estatísticas & Conquistas  
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabrielarruda177&show_icons=true&theme=blue-white&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielarruda177&theme=blue-white&hide_border=true" />
-</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarruda177&layout=compact&theme=blue-white&hide_border=true" />
-</div>
+  <!-- Stats principais -->
+  <p align="center">
 
-<div align="center">
+  <img height="170" style="max-width: 100%; flex: 1 1 250px;" src="https://github-readme-stats.vercel.app/api?username=Gabrielarruda177&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
+  <img height="170" style="max-width: 100%; flex: 1 1 250px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielarruda177&theme=algolia&hide_border=true" />
+</p>
+
+  <p align="center">
+
+  <img height="170" style="max-width: 100%; flex: 1 1 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarruda177&layout=compact&theme=algolia&hide_border=true" />
+</p>
+
+  <p align="center">
+
+<img width="90%" style="max-width: 600px; flex: 1 1 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielarruda177&theme=algolia" />
+</p>
+</div>
 
 ---
 
