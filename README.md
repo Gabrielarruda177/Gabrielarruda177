@@ -1,43 +1,89 @@
-# 👋 Olá, eu sou o Gabriel Arruda!
-
-🎓 Estudante do **3º ano do Ensino Médio** e do **3º módulo de Desenvolvimento de Sistemas na ETEC**  
-💻 Apaixonado por tecnologia, programação e soluções inovadoras  
-🚀 Em constante evolução para me tornar um desenvolvedor **Full Stack**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=250&section=header&text=Gabriel%20Arruda%20👨‍💻&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=50"/>
+  <br>
+  <p align="center">Sempre aprendendo, sempre crescendo. Bem-vindo(a) à minha jornada de código.</p>
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <h3>🚀 Sobre a minha jornada</h3>
+</div>
+
+Sou Gabriel Arruda, um estudante em constante evolução, no 3º ano do Ensino Médio e no 3º módulo de Desenvolvimento de Sistemas na ETEC. Minha paixão é traduzir a paixão por tecnologia em código, criando soluções que fazem a diferença. Atualmente, meu foco é me capacitar para me tornar um desenvolvedor **Full Stack** com uma base sólida em tudo que envolve o mundo do desenvolvimento.
+
+> _"A melhor maneira de prever o futuro é criá-lo."_
+
+---
+
+<div align="center">
+  <h3>💻 Habilidades & Ferramentas</h3>
+</div>
+
+<div align="center">
+  <p>Minha jornada tem me levado a explorar diversas tecnologias e ferramentas. Aqui estão as que tenho trabalhado:</p>
+  
+  | Linguagens | Frameworks & Libraries | Ferramentas & Outros |
+  |:---:|:---:|:---:|
+  | <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql&theme=light"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=react,nodejs,laravel&theme=light"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/> |
+</div>
+
+---
+
+<div align="center">
+  <h3>📚 O que estou aprendendo agora</h3>
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_APIs-0078D4?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+<div align="center">
+  <h3>📊 Estatísticas & Conquistas</h3>
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabrielarruda177&show_icons=true&theme=blue-white&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielarruda177&theme=blue-white&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarruda177&layout=compact&theme=blue-white&hide_border=true" />
+</div>
+
+<div align="center">
+
+---
+
+<div align="center">
+  <h3>✨ Vamos nos conectar!</h3>
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielarruda177&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarruda177&layout=compact&theme=tokyonight" height="165"/>
+  <a href="https://www.linkedin.com/in/gabriel-arruda-47845b1aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabrielarruda1909@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌱 Atualmente aprendendo
-✔️ Desenvolvimento **Web** (Front-end + Back-end)  
-✔️ Criação de **APIs** e integração com banco de dados  
-✔️ Projetos em **React Native**  
+<div align="center">
+  <img src="https://github.com/Gabrielarruda177/Gabrielarruda177/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabrielarruda177&color=0d47a1&style=for-the-badge"/>
+</p>
 
 ---
-
-## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-arruda-47845b1aa)  
-- 📧 Email: **gabrielarruda1909@gmail.com**  
-
----
-
-✨ *Sempre em busca de novos desafios e aprendizados no mundo da programação!*
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=120&section=footer"/>
+</p>
