@@ -1,120 +1,153 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=250&section=header&text=Gabriel%20Arruda%20👨‍💻&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=50"/>
-  <br>
-  <p align="center">Sempre aprendendo, sempre crescendo. Bem-vindo(a) à minha jornada de código.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Gabriel%20Arruda&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20|%20Criando%20soluções%20que%20transformam&descAlignY=55&descAlign=50"/>
 </div>
 
 ---
 
-<div align="center">
-  <h3>🚀 Sobre a minha jornada</h3>
-</div>
-
-Sou Gabriel Arruda, um estudante em constante evolução, no 3º ano do Ensino Médio e no 3º módulo de Desenvolvimento de Sistemas na ETEC. Minha paixão é traduzir a paixão por tecnologia em código, criando soluções que fazem a diferença. Atualmente, meu foco é me capacitar para me tornar um desenvolvedor **Full Stack** com uma base sólida em tudo que envolve o mundo do desenvolvimento.
-
-> _"A melhor maneira de prever o futuro é criá-lo."_
+**📋 INSTRUÇÕES:** Copie todo o código abaixo e cole no arquivo `README.md` do seu repositório `Gabrielarruda177/Gabrielarruda177`
 
 ---
 
+```markdown
 <div align="center">
-  <h3>💻 Habilidades & Ferramentas</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Gabriel%20Arruda&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20|%20Criando%20soluções%20que%20transformam&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
-  <p>Minha jornada tem me levado a explorar diversas tecnologias e ferramentas. Aqui estão algumas que tenho trabalhado:</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Back-end+%F0%9F%9A%80;Especialista+em+PHP%2FLaravel+%F0%9F%94%A5;Apaixonado+por+tecnologia+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
+
+---
+
+## 🎯 Sobre mim
+
+```javascript
+const gabriel = {
+    formacao: "Técnico em Desenvolvimento de Sistemas - ETEC Guaianases",
+    foco: "Desenvolvedor Back-end",
+    missao: "Transformar ideias em soluções tecnológicas reais",
+    mentalidade: "Aprendizado contínuo e código limpo",
+    status: "Disponível para novos desafios 🚀"
+};
+```
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gabrielarruda177&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estatísticas%20GitHub" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielarruda177&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🛠️ Arsenal Tecnológico
+
+<div align="center">
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=php,laravel,java,python,mysql,postgres&perline=6" />
+
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind,bootstrap&perline=6" />
+
+### Ferramentas & Versionamento
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&perline=6" />
+
+</div>
+
+---
+
+## 📊 Linguagens Mais Utilizadas
+
+<div align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarruda177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=800" />
+</div>
+
+---
+
+## 🎓 Aprendizado Atual
+
+<div align="center">
   
-  <div>
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  </div>
+| Tecnologia | Nível | Foco |
+|------------|-------|------|
+| 🔴 **Laravel** | Avançado | APIs RESTful, Eloquent ORM |
+| ☕ **Java** | Intermediário | POO, Spring Boot |
+| 🐬 **MySQL** | Avançado | Otimização de queries, Modelagem |
+| ⚛️ **React Native** | Intermediário | Apps mobile multiplataforma |
+
+</div>
+
+---
+
+## 🏆 Conquistas & Contribuições
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabrielarruda177&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielarruda177&theme=tokyonight" />
+</div>
+
+---
+
+## 📈 Atividade de Contribuição
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielarruda177&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 Vamos Conectar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-arruda-47845b1aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:gabrielarruda1909@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://github.com/Gabrielarruda177">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  </a>
+</div>
+
+---
+
+## 💡 Filosofia de Código
+
+<div align="center">
+
+```python
+class Desenvolvedor:
+    def __init__(self):
+        self.nome = "Gabriel Arruda"
+        self.principios = [
+            "Código limpo é código profissional",
+            "Documentação é amor ao próximo dev",
+            "Testar é prevenir, não remediar",
+            "Refatorar é evolução constante"
+        ]
+    
+    def trabalhar(self):
+        while True:
+            self.aprender()
+            self.codificar()
+            self.melhorar()
+```
+
+> _"O único modo de fazer um ótimo trabalho é amar o que você faz."_ - Steve Jobs
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>📚 O que estou aprendendo agora</h3>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_APIs-0078D4?style=for-the-badge&logo=api&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-  <h3>🌐 Conecte-se comigo</h3>
-  <p>Redes sociais e plataformas que uso ativamente:</p>
-  <div>
-    <a href="https://www.linkedin.com/in/gabriel-arruda-47845b1aa" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-    </a>
-    <a href="mailto:gabrielarruda1909@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-    </a>
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="twitch logo" />
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="devto logo" />
-  </div>
-</div>
-
----
-
-<div align="center">
-  <h3>🏆 Estatísticas & Conquistas</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img height="150" style="max-width: 100%; flex: 1 1 250px;" src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
-    <img height="150" style="max-width: 100%; flex: 1 1 250px;" src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy graph" />
-    <img height="170" style="max-width: 100%; flex: 1 1 250px;" src="https://github-readme-stats.vercel.app/api?username=Gabrielarruda177&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-    <img height="170" style="max-width: 100%; flex: 1 1 250px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielarruda177&theme=algolia&hide_border=true" />
-    <img height="170" style="max-width: 100%; flex: 1 1 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarruda177&layout=compact&theme=algolia&hide_border=true" />
-    <img width="90%" style="max-width: 600px; flex: 1 1 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielarruda177&theme=algolia" />
-  </div>
-</div>
-
----
-
-<div align="center">
-  <h3>📈 Contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" style="max-width:100%;"/>
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/Gabrielarruda177/Gabrielarruda177/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabrielarruda177&color=0d47a1&style=for-the-badge"/>
-</p>
-
----
-
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=120&section=footer"/>
-</div>
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+  
+  <br>
+  
+```
