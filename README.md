@@ -4,20 +4,7 @@
 
 ---
 
-**📋 INSTRUÇÕES:** Copie todo o código abaixo e cole no arquivo `README.md` do seu repositório `Gabrielarruda177/Gabrielarruda177`
 
----
-
-```markdown
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Gabriel%20Arruda&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20|%20Criando%20soluções%20que%20transformam&descAlignY=55&descAlign=50"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Back-end+%F0%9F%9A%80;Especialista+em+PHP%2FLaravel+%F0%9F%94%A5;Apaixonado+por+tecnologia+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%8C%B1" alt="Typing SVG" />
-</div>
-
----
 
 ## 🎯 Sobre mim
 
@@ -138,6 +125,11 @@ class Desenvolvedor:
 
 > _"O único modo de fazer um ótimo trabalho é amar o que você faz."_ - Steve Jobs
 
+</div>
+
+---
+
+<div align="center">
 </div>
 
 ---
