@@ -145,4 +145,16 @@ class Desenvolvedor:
   
   <br>
   
-```
+
+
+## 🕹️ Gráfico de Contribuições Estilo Pac-Man
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielarruda177/Gabrielarruda177/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielarruda177/Gabrielarruda177/output/pacman-contribution-graph.svg">
+    <img alt="Gráfico de contribuições estilo Pacman" src="https://raw.githubusercontent.com/Gabrielarruda177/Gabrielarruda177/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+---
