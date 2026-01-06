@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Gabriel%20Arruda&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20|%20Criando%20soluções%20que%20transformam&descAlignY=55&descAlign=50"/>
+    <img src="https://gifdb.com/images/high/nintendo-super-mario-prank-his-brother-luigi-lqk9dd9c9hcgzf0s.gif" width="800" alt="Luigi GIF"/>
 
-
-  <img src="https://gifdb.com/images/high/nintendo-super-mario-prank-his-brother-luigi-lqk9dd9c9hcgzf0s.gif" width="800" alt="Luigi GIF"/>
-
+  
 </div>
 
 ---
+
 
 
 ## 🎯 Sobre mim
@@ -48,7 +48,7 @@ const gabriel = {
 ## 📊 Linguagens Mais Utilizadas
 
 <div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielarruda177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=800" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,python,react,java,mysql,line=6" />  
 </div>
 
 ---
@@ -83,8 +83,9 @@ const gabriel = {
 ## 📈 Atividade de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielarruda177&bg_color=000000&color=ffff00&line=ffff00&point=0000ff&area=true&area_color=1a1a1a&hide_border=true&radius=8" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielarruda177&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
+
 ---
 
 ## 🤝 Vamos Conectar?
@@ -144,5 +145,4 @@ class Desenvolvedor:
   
   <br>
   
-
-
+```
