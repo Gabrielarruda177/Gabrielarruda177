@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Gabriel%20Arruda&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20|%20Criando%20soluções%20que%20transformam&descAlignY=55&descAlign=50"/>
+
+
+  <img src="https://gifdb.com/images/high/nintendo-super-mario-prank-his-brother-luigi-lqk9dd9c9hcgzf0s.gif" width="800" alt="Luigi GIF"/>
+
 </div>
 
 ---
-
 
 
 ## 🎯 Sobre mim
