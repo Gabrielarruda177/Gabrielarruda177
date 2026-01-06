@@ -20,10 +20,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Gerar cards de resumo do perfil
-        # Forçando o uso de uma versão antiga que ainda tinha o THEME
-        uses: vn7n24fzkq/github-profile-summary-cards@v1.1.0
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Gabrielarruda177
-          THEME: pacman # Voltamos a adicionar esta linha!
