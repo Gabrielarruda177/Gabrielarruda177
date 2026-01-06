@@ -83,9 +83,8 @@ const gabriel = {
 ## 📈 Atividade de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielarruda177&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielarruda177&bg_color=000000&color=ffff00&line=ffff00&point=0000ff&area=true&area_color=1a1a1a&hide_border=true&radius=8" width="100%"/>
 </div>
-
 ---
 
 ## 🤝 Vamos Conectar?
@@ -147,14 +146,3 @@ class Desenvolvedor:
   
 
 
-## 🕹️ Gráfico de Contribuições Estilo Pac-Man
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielarruda177/Gabrielarruda177/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielarruda177/Gabrielarruda177/output/pacman-contribution-graph.svg">
-    <img alt="Gráfico de contribuições estilo Pacman" src="https://raw.githubusercontent.com/Gabrielarruda177/Gabrielarruda177/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
----
