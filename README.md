@@ -87,6 +87,9 @@ const gabriel = {
 </div>
 
 ---
+<div align="center">
+  <img src="https://github.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ## 🤝 Vamos Conectar?
 
