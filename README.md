@@ -40,18 +40,12 @@ const gabriel = {
 </div>
 
 <br>
-  <p align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5NTVsd2I2MmRmcG01cWZxaGg5NzdhYnhicGpmZzZnMnloZmhocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OODdDyv4DwkNNTpMWS/giphy.gif"
-         width="220"
-         alt="GIF centro"/>
-  </p>
+
 ---
 
 ## 🛠️ Arsenal Tecnológico
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTV2eXV6cTR4dWo0NjI5d3kydzZxampxMHhiajlibHFrc2l5MDlxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hTfiJNOOdYz9znwGKO/giphy.gif" width="280" alt="New GIF"/>
-</div>
+
 
 <br/>
 
@@ -125,9 +119,7 @@ const gabriel = {
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dpOGJ0aG9pY2l6MTAybnBnM3AyajkycGVmY2x6bW4xYzJkNjI3cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hrBbzC5fhOcyeALEeW/giphy.gif" width="260" alt="GIF contribuindo"/>
-</div>
+
 
 ---
 
@@ -183,10 +175,10 @@ class Desenvolvedor:
 
 ---
 
-<div align="center">
-  
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDExcXBkc3Jwa3hqbTcwcnhpMzhteGR2Y3gzOWVscWtoMm9uZ3E5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1r8YvFB47nAsAy36mp/giphy.gif" width="390" alt="GIF final"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWJ1MWIycmw5amlmdWhtZTZ1ZTJnN3JzZjBxMDRpanRpdmZoM3M2biZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/0Awb0MITzU2efaxrS2/giphy.gif"
+       width="590"/>
 
   <br/><br/>
 
